@@ -1,4 +1,4 @@
-// Simular cien tiradas de dos dados y contar las veces que entre los dos suman 10.
+// Introducir dos números por teclado y mediante un menú, calcule su suma, su resta, su multiplicación o su división.
 
 const readline = require('readline').createInterface({
     input: process.stdin,
